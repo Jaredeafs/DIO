@@ -13,9 +13,7 @@ Usamos o Google Colab para apresentar a biblioteca Pandas, uma biblioteca Python
  - Python Básico
  - Estrutua de dados
  - Introdução a Biblioteca Pandas
- - Trabalhando com arquivos em Excel
- - Trabalhando com Datas
- - Visualização de dados
+ - Trabalhando com arquivos em Excel, Datas e Visualização de dados
  - Análise Exploratória de dados
 
 <br>
