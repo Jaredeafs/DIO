@@ -1,0 +1,1 @@
+<a href=“[http://exemplo.com/](https://github.com/Jaredeafs/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/An%C3%A1lise%20de%20dados%20com%20Python%20e%20Pandas/Python%20B%C3%A1sico.ipynb)“>python basico</a>
